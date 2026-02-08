@@ -1,2 +1,1 @@
 This is second time message on feature branch
-This is additional message on feature branch
